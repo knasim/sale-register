@@ -1,7 +1,7 @@
 # sale-register
 A sales tax computation program based on a non-imperative style of programming leaning towards functional programming (FP).
 
-# note:
+# note
 The files in the `com.tax.common` are from fpinjava library from Manning's book on functional programming in JAVA.
 
 # running the code
